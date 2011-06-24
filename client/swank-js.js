@@ -241,3 +241,4 @@ SwankJS.makeScriptElement = function makeScriptElement (src, content) {
 };
 */
 
+SwankJS.setup('http://127.0.0.1:8009/');
